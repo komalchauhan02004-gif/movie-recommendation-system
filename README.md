@@ -53,7 +53,23 @@ Movie_Recommendation_System/
 ├── athenura_movie.ipynb  # Data preprocessing notebook
 └── README.md
 ```
+---
 
+## ⚠️ Important Note
+
+The file **similarity.pkl** is very large and cannot be uploaded to GitHub.
+
+Download it from Google Drive:
+
+🔗 https://drive.google.com/file/d/1QRW6X4E6zq8Y37IuqDKCQ1U7dYpFt117/view?usp=sharing
+
+After downloading, place the file inside the project folder:
+
+```
+movie-recommendation-system/similarity.pkl
+```
+
+---
 ---
 
 ## ⚙️ How to Run the Project
